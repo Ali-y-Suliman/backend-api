@@ -15,7 +15,7 @@ password: QQqq99!!
  1.2- users ( id: string, email: string, isAdmin: boolean, password: string ) 
 
 # APIs:
-CRUD endpoints for Accounts & CRUD endpoints for Users
+- CRUD endpoints for Accounts & CRUD endpoints for Users
 
 # How to work with the APIs:
 1- create the previous two tables
