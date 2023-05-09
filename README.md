@@ -1,6 +1,5 @@
-# backend-api
-
-# Before run the project: npm i
+# Before run the project: 
+npm i
 
 # run the project by:
 npm start
