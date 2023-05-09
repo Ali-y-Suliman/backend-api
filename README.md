@@ -2,7 +2,7 @@
 
 # Before run the project: npm i
 
-# run theproject by:
+# run the project by:
 npm start
 
 # To check the email if working:
