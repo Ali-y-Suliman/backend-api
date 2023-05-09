@@ -13,7 +13,10 @@ password: QQqq99!!
  1.1- accounts( id: string, first_name: string, last_name: string, email: string, phone: string, password: string, birthday: string, created_at: string,      
                 last_modified: string)
  1.2- users ( id: string, email: string, isAdmin: boolean, password: string ) 
- 
+
+# APIs:
+CRUD endpoints for Accounts & CRUD endpoints for Users
+
 # How to work with the APIs:
 1- create the previous two tables
 
