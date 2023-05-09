@@ -4,13 +4,14 @@ npm i
 # run the project by:
 npm start
 
-# To check the email if working:
+# To check the email if is working:
 email: test.assesment@outlook.com
 password: QQqq99!!
 
 # Info about the DB:
 1- We have two tables:
- 1.1- accounts( id: string, first_name: string, last_name: string, email: string, phone: string, password: string, birthday: string, created_at: string, last_modified: string)
+ 1.1- accounts( id: string, first_name: string, last_name: string, email: string, phone: string, password: string, birthday: string, created_at: string,      
+                last_modified: string)
  1.2- users ( id: string, email: string, isAdmin: boolean, password: string ) 
  
 # How to work with the APIs:
